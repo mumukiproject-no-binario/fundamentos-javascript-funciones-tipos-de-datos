@@ -16,7 +16,7 @@ O también podemos _concatenarlos_, es decir, obtener **uno nuevo** que junta do
 "sus anaqueles registran todas las combinaciones"
 ```
 
-O podemos preguntarles si uno comienza con otro:
+O podemos preguntarles si uno comienza con otro (utilizando el metodo indexOf() ):
 
 ```javascript
 ム comienzaCon("una página", "una")
